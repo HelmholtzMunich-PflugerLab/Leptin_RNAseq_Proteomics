@@ -1,0 +1,20 @@
+# RStudio
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# temporary files
+*.log
+*.tmp
+
+# Office temporary files
+~$*.xlsx
+
+# output folders
+results/
+figures/
+plots/
+.Rproj.user
