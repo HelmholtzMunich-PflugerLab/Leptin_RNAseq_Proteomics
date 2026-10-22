@@ -68,8 +68,8 @@ all_sample_order <- c(
 # 3. Load proteomics data and metadata
 # ============================================================
 
-protein_raw <- readxl::read_xlsx(proteomics_file, sheet = 3)
-metadata <- readxl::read_xlsx(proteomics_file, sheet = 4)
+protein_raw <- readxl::read_xlsx(proteomics_file, sheet = "Data")
+metadata <- readxl::read_xlsx(proteomics_file, sheet = "metadata")
 
 sample_info <- make_sample_info(metadata)
 
