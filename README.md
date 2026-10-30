@@ -6,6 +6,8 @@ This repository contains the R scripts used to analyse RNA-seq and proteomics da
 
 **Temporal organization of leptin signaling reveals distinct regulatory roles for STAT3 and ETV6**
 
+Pathak E, Bernecker M, Mallet N, König AC, Gutierrez-Aguilar R, Mencias C, Schriever SC, Pfluger PT. Temporal organization of leptin signaling reveals distinct regulatory roles for STAT3 and ETV6. J Mol Endocrinol. 2026 Oct 21:JME-26-0065. doi: 10.1530/JME-26-0065. PMID: 42908474.
+
 The repository contains sequential analysis scripts together with reusable helper functions for RNA-seq and proteomics data analysis.
 
 
